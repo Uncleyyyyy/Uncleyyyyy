@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Uncleyyyyy
-- 👀 I’m interested in webGIS/python
-- 🌱 I’m currently learning geophysics
+- 👀 I’m interested in webGIS/python/GMTSAR
+- 🌱 I’m currently learning geophysics & geodesy
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me uncley@cug.edu.cn
 
